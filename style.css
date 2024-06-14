@@ -245,7 +245,7 @@ body {
     transform: scale(1.2);
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 540px) {
 }
 
 .scrolled {
