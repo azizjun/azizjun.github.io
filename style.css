@@ -246,9 +246,6 @@ body {
 }
 
 @media screen and (max-width: 640px) {
-    .navbar {
-        display: none;
-    }
 }
 
 .scrolled {
